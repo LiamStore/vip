@@ -1,9 +1,9 @@
 ### ORDER AUTOSCRIPT/IZIN IP
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome%20To%20My%20Hosting" />  
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome%20To%20My%20Github" />  
 </p>
 
-![WokszXD card name](https://cardivo.vercel.app/api?name=WokszXD&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://github.com/pusoxx/ver3/raw/main/1686655025212.png?v=4&backgroundColor=%23ecf0f1&telegram=/&github=WokszXD&pattern=leaf&colorPattern=%23eaeaea)
+![WokszXD card name](https://cardivo.vercel.app/api?name=Liam&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://github.com/liamstore/vip/raw/xd/1686655025212.png?v=4&backgroundColor=%23ecf0f1&telegram=/&github=Liam&pattern=leaf&colorPattern=%23eaeaea)
 - PRICELIST
 ```
 HARGA SEWA AUTOSCRIPT 
@@ -14,10 +14,9 @@ LIFETIME: 75K
 Source : 600K Nego
 ```
 • HUBUNGI:
-- WhatsApp: [Klik Disini](https://wa.me/6285279323958)
-- Telegram: [Klik Disini](https://t.me/wokszxd_rajing_mengaji)
-- Channel: [Klik Disini](https://t.me/WokszXDStore)
-- My Store: [Klik Disini](https://wokszxdstore.my.id)
+- WhatsApp: [Klik Disini](https://wa.me/6285959585620)
+- Telegram: [Klik Disini](https://t.me/liamstoreqq)
+- Channel: [Klik Disini](https://t.me/liamtestireal)
 
 ### PERHATIAN
 
@@ -26,10 +25,7 @@ Source : 600K Nego
 
 
 ### INSTALL SCRIPT 1
-<pre><code>wget --no-check-certificate https://wokszxdstore.net/pejukupremium.sh && chmod +x pejukupremium.sh && ./pejukupremium.sh</code></pre>
-
-### INSTALL SCRIPT 2
-<pre><code>wget --no-check-certificate https://wokszxdstore.net/xpy.sh && chmod +x xpy.sh && ./xpy.sh</code></pre>
+<pre><code>coming soon</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
@@ -75,8 +71,4 @@ Source : 600K Nego
 ```
 ### STATUS
 `UPDATED`
-BY: WokszXD | & Team 【XD】
-
-![qris](https://wokszxdstore.net/source/buy.jpg)
-- Dana/Ovo/Gopay
-  - 085279323958
+BY: Liam | & Team 【XD】
